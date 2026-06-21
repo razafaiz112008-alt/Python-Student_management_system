@@ -51,6 +51,7 @@ The project simulates a basic real-world school management system using Python.
 
 ## Author
 Md Faizan Raza
+<br>
 ⭐ Support
 
 If you like this project:
