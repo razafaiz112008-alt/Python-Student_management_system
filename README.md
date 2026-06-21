@@ -57,5 +57,7 @@ Md Faizan Raza
 If you like this project:
 
 Give it a ⭐ on GitHub
+<br>
 Fork the repository
+<br>
 Share it with others
